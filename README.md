@@ -1,7 +1,7 @@
 ## Google
 ![Animation](https://github.com/bbluechip/google-landing-page/blob/master/images/Animation.gif)
 
-👉[Click here to see the page](https://bbluechip.github.io/voltran/)
+👉[Click here to see the page](https://bbluechip.github.io/google-landing-page/)
 
 ## Project Skeleton
 
